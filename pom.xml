@@ -7,11 +7,18 @@
     <groupId>ru.geekbrains</groupId>
     <artifactId>HomeWork_core2</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
+            <version>15.0.1</version>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15
-        </maven.compiler.target>
+        <maven.compiler.target>15</maven.compiler.target>
     </properties>
+
 
 </project>
